@@ -1,2 +1,2 @@
 # My_firstRepository
-This is my first work
+I like so much data science, that's why I create this first repository
